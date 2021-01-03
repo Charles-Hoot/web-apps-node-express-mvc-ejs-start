@@ -6,7 +6,7 @@
 
 - [Demo on Heroku](https://node-express-mvc-ejs-start-h.herokuapp.com/)
 - [Demo on Google Cloud](https://node-express-mvc-ejs-start.appspot.com)
-- [Source](https://github.com/denisecase/node-express-mvc-ejs-start)
+- [Repo](https://github.com/charles-hoot/web-apps-node-express-mvc-ejs-start)
 
 ## About
 
